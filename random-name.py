@@ -16,3 +16,4 @@ print("Comment")
 #     def __init__(self):
 #         self.message = "Hello, world!"
 print("This is MyClass")
+print("Another line of something")
