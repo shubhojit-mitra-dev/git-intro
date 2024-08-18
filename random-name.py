@@ -10,3 +10,7 @@ random_name.print_something()
 
 # This is just a comment
 print("Comment")
+
+print("Hello this is something")
+print("Another line of something")
+print("Yet another line of something")
