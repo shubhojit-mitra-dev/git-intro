@@ -10,3 +10,6 @@ obj = MyClass()
 
 # Call the print_message method
 obj.print_message()
+
+# This is just a comment
+print("Comment")
