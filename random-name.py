@@ -7,3 +7,6 @@ class RandomName:
 
 random_name = RandomName()
 random_name.print_something()
+
+# This is just a comment
+print("Comment")
